@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type ="text/css" href="Item.css" ?>
+<itemlist>
+<Item>
+      <Itemname>pen</Itemname>
+      <Itemprice>10</Itemprice>
+      <quantity>5</quantity>
+</Item>
+<Item>
+      <Itemname>book</Itemname>
+      <Itemprice>20</Itemprice>
+      <quantity>50</quantity>
+</Item>
+<Item>
+      <Itemname>boot</Itemname>
+      <Itemprice>1</Itemprice>
+      <quantity>5000</quantity>
+</Item>
+<Item>
+     <Itemname>car</Itemname>
+     <Itemprice>2</Itemprice>
+     <quantity>500000</quantity>
+</Item>
+<Item>
+     <Itemname>railway</Itemname>
+     <Itemprice>8</Itemprice>
+     <quantity>016546564</quantity>
+</Item>
+</itemlist>
+
